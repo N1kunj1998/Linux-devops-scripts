@@ -1,5 +1,14 @@
 #!/bin/bash
 
+##############################
+# Author: Nikunj Khakhkhar
+# Date: 19th May 2023
+#
+# Version: v1
+#
+# This script will report the AWS resource usage
+##############################
+
 src_dir=$(pwd)
 tgt_dir=$(pwd)"/backup"
 
